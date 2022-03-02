@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFpaq", "TimeFpaq\TimeFpaq.csproj", "{BFE5BF7A-AF6C-4719-BED4-B20F1CD92082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE5BF7A-AF6C-4719-BED4-B20F1CD92082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE5BF7A-AF6C-4719-BED4-B20F1CD92082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE5BF7A-AF6C-4719-BED4-B20F1CD92082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE5BF7A-AF6C-4719-BED4-B20F1CD92082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D680496E-1674-459C-8F46-69C335C1BFB5}
+	EndGlobalSection
+EndGlobal
